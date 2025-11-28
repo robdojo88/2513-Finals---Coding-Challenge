@@ -1,11 +1,9 @@
-# 2513 Finals -- Coding Challenge
+# 2513 Finals — Coding Challenge
 
-This repository contains the official **2513 Finals Practical Exam** for
-strengthening students' logical and algorithmic skills using
-**JavaScript**.\
-Each challenge focuses on core programming fundamentals that every
-student must master before advancing to more complex software
-development topics.
+This repository contains the official **2513 Finals Practical Exam**, designed to strengthen students' logical and algorithmic skills using **JavaScript**.  
+Each challenge focuses on core programming fundamentals that students must master before advancing to more complex development tasks.
+
+---
 
 ## 🚀 What's Inside
 
@@ -13,89 +11,98 @@ development topics.
 
 Files are organized as:
 
-    problems/
-      problem1.js
-      problem2.js
-      ...
-      problem15.js
+```
+problems/
+  problem1.js
+  problem2.js
+  ...
+  problem15.js
+```
 
-Each file contains:
+Each file includes:
 
--   A problem description\
--   A function template\
--   Test cases in comments\
--   Export statements for the test runner
+-   Problem description
+-   Function template
+-   Test cases in comments
+-   Export statement for the test runner
 
 ### ✔ Sample Template
 
-`_sample.js` demonstrates the formatting and structure expected in each
-solution.
+`_sample.js` demonstrates the proper formatting and structure expected in each solution.
 
 ### ✔ Automated Test Runner
 
 `test.js` allows students to:
 
--   Test a single problem\
--   Or run all problems automatically\
--   See pass/fail results in the console
+-   Test a single problem
+-   Run all problems automatically
+-   View pass/fail results in the console
 
-To run:
+Run tests with:
 
-``` bash
+```bash
 node test.js
 ```
 
+---
+
 ## 🛠 How to Use
 
-1.  Clone the repository
+### 1. Clone the repository
 
-    ``` bash
-    git clone https://github.com/your-username/2513-finals-coding-challenge.git
-    ```
+```bash
+git clone https://github.com/robdojo88/2513-Finals---Coding-Challenge.git
+```
 
-2.  Install dependencies (if any)
+### 2. Install dependencies (if any)
 
-    ``` bash
-    npm install
-    ```
+```bash
+npm install
+```
 
-3.  Solve each problem inside `/problems`.\
+### 3. Solve each problem inside `/problems`.
 
-4.  Run the automated tests
+### 4. Run the automated test runner
 
-    ``` bash
-    node test.js
-    ```
+git
+
+```bash
+node test.js
+```
+
+---
 
 ## 🎯 Purpose of This Challenge
 
-This practical exam is designed to:
+This practical exam is designed to help students:
 
--   Sharpen logical reasoning\
--   Strengthen core JavaScript fundamentals\
--   Practice clean and modular coding\
--   Prepare students for real-world problem-solving
+-   Strengthen core JavaScript skills
+-   Improve logical reasoning
+-   Practice clean, modular coding
+-   Solve algorithmic problems confidently
 
-Students must demonstrate mastery of:
+Students will demonstrate mastery of:
 
--   Loops\
--   Conditionals\
--   Functions\
--   Arrays\
--   Basic algorithms\
+-   Loops
+-   Conditionals
+-   Functions
+-   Arrays
+-   Basic algorithms
 -   Modular JavaScript (imports/exports)
+
+---
 
 ## 📚 Skills Reinforced
 
--   Algorithmic thinking\
--   Debugging procedures\
--   Writing clean, readable code\
--   Understanding input → process → output\
--   Breaking down complex problems into small steps
+-   Algorithmic thinking
+-   Debugging and problem-solving
+-   Writing clean, readable code
+-   Breaking down problems into step-by-step solutions
+-   Understanding input → process → output flow
+
+---
 
 ## 👨‍🏫 For Instructors
 
-The test runner can instantly verify correctness, making grading fast
-and objective.\
-Problems are purposely arranged from **easy → moderate → challenging**,
-promoting growth in logical skills.
+The included test runner ensures fast, objective grading.  
+Problems are structured from **easy → moderate → challenging**, encouraging progressive learning and mastery.
